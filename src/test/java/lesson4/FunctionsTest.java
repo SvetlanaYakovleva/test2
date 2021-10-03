@@ -33,7 +33,7 @@ public class FunctionsTest {
     }
 
     @Test
-    @DisplayName("Тестируем функцию расчета плозщади треугольника.....")
+    @DisplayName("Тестируем функцию расчета площади треугольника.....")
     @Disabled
     void testSquareTriangle() {
         boolean result = checkFunc(2,3,-10);
